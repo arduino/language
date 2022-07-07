@@ -3,9 +3,7 @@
 Arduino Language
 ================
 
-The Arduino Language is the de-facto standard for embedded programming on hundreds of architectures and hardware platforms. It is a domain-specific language implemented using a subset of the C++ syntax which makes it abstract enough to be ported to any other programming language.
-
-The aim is to provide a full abstraction API over the lower level calls provided by the various platforms, standardizing the coding experience and promoting reusable content and examples that can be ported easily on any hardware.
+The Arduino Language is the de-facto standard for embedded programming on hundreds of architectures and hardware platforms. It is a domain-specific language implemented using a subset of the C++ syntax which makes it abstract enough to be ported to any other programming language. The aim is to provide a full abstraction API over the lower level calls required by the various platforms, standardizing the coding experience and promoting reusable content and examples that can be ported easily on any hardware.
 
 The Arduino Language includes:
 
@@ -14,7 +12,8 @@ The Arduino Language includes:
 
 ## How to contribute
 
-* Join the [discussion](https://github.com/arduino/language/discussions) on the evolution of the language
+❇️ **Join the [discussion](https://github.com/arduino/language/discussions)** on the evolution of the language!
+
 * Inspect the existing official and third-party Arduino cores to spot inconsistencies or APIs that should be considered for standardization
 * Inspect the existing official and third-party Arduino libraries to spot opportunities to make them more portable by extending the Arduino language over concepts that were not standardized yet
 * Help us improving the [language reference](https://github.com/arduino/reference-en)
