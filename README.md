@@ -7,8 +7,9 @@ The Arduino Language is the de-facto standard for embedded programming on hundre
 
 The Arduino Language includes:
 
-* the [core API]([ArduinoCore-API](https://github.com/arduino/ArduinoCore-API)), i.e. a set of built-in classes, functions and constants that all platform-specific implementations shall provide (see the [language reference](https://www.arduino.cc/reference/en/) for user-facing documentation - [sources](https://github.com/arduino/reference-en) here)
-* the [Arduino official libraries](https://github.com/arduino-libraries) whose goal is to provide abstractions over the most used concepts, devices and data types
+* the [core API](https://github.com/arduino/ArduinoCore-API), i.e. a set of built-in classes, functions and constants that all platform-specific implementations shall provide
+   * see the [language reference](https://www.arduino.cc/reference/en/) for user-facing documentation ([sources](https://github.com/arduino/reference-en) here)
+* the [official libraries](https://github.com/arduino-libraries) whose goal is to provide abstractions over the most used concepts, devices and data types
 
 ## How to contribute
 
